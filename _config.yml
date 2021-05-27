@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Dead Letter Design
+title: dead letter design
 
 # Your name to show in the footer
-author: Dead Letter Design
+author: dead letter design
 
 # --- List of links in the navigation bar --- #
 
@@ -77,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "DeadLetter.Design"
+url-pretty: "deadletter.design"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
